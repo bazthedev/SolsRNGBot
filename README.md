@@ -1,4 +1,6 @@
 <div align="center">
+<h1>SolsScope has been discontinued. For more information, please join this server: https://discord.gg/8khGXqG7nA </h1><br><br><br>
+  
   <img src="https://raw.githubusercontent.com/bazthedev/SolsScope/refs/heads/main/icon.ico" alt="SolsScope Icon" width="128" height="128">
 
   # SolsScope
